@@ -1,1 +1,1 @@
-# [My Todo](https://aleksandr-wegele.github.io/MyPortfolio/)
+# [My Todo](https://aleksandr-wegele.github.io/Todo/)

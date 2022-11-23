@@ -1,0 +1,1 @@
+export const calendarItems = ['Сегодня', 'Следующие 7 дней', 'Все дни']
